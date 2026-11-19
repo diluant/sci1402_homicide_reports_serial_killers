@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environnements
+.venv/
+venv/
+.env
+.env.*
+
+# Secrets
+kaggle.json
+*.token
+*.pem
+
+# Fichiers temporaires
+*.log
+*.tmp
+
+# Fichiers volumineux
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.pth
